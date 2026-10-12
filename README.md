@@ -6,7 +6,7 @@ Every project needs a shelf of ready answers. product and engineering is one of 
 
 ## Images
 
-[![setup-ipsec-vpn](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![setup-ipsec-vpn](images/preview.png)](https://github.com/Swift-Tech-Co/setup-ipsec-vpn)
 
 ## Quick start
 
@@ -434,6 +434,14 @@ Based on [the work of Thomas Sarlandie](https://github.com/sarfata/voodooprivacy
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)   
 This work is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)  
 Attribution required: please include my name in any derivative and let me know how you have improved it!
+
+## Sources
+
+Compiled and maintained from upstream [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
